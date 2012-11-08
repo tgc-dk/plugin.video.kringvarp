@@ -6,4 +6,7 @@
 
 
 
+Minnist nú til at rinda kringvarpsgjald!
+
+
 
