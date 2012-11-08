@@ -1,0 +1,6 @@
+
+## Kringvarp plugin til XBMC ##
+
+
+
+
