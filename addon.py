@@ -21,7 +21,7 @@ mode = args.get('mode', None)
 
 if mode is None:
     # First the live feed
-    url = 'rtsp://217.172.83.186/fo/videohigher'
+    url = 'http://217.172.83.186/fo/videohigher/playlist.m3u8'
     li = xbmcgui.ListItem('Watch Kringvarp Live', iconImage='DefaultVideo.png')
     xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
